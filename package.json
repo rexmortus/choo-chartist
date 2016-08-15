@@ -3,15 +3,12 @@
   "version": "1.0.0",
   "description": "A wrapper for using Chartist with the choo framework",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "choo",
     "chartist"
   ],
   "author": "rexmortus",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chartist": "^0.9.8",
     "choo": "^3.2.0"
