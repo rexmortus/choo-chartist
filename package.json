@@ -12,5 +12,13 @@
   "dependencies": {
     "chartist": "^0.9.8",
     "choo": "^3.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexmortus/choo-chartist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rexmortus/choo-chartist/issues"
+  },
+  "homepage": "https://github.com/rexmortus/choo-chartist#readme"
 }
